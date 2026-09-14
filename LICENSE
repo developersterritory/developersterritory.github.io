@@ -1,0 +1,38 @@
+# Proprietary Software License & Brand Protection Agreement
+
+**Copyright &copy; 2026 Developer's Territory (https://developersterritory.in). All Rights Reserved.**
+
+---
+
+### 1. Scope & Public Inspection
+
+This repository contains compiled, production-ready static assets, software interfaces, and visual media serving the live **Developer's Territory** web platform. Public access is granted strictly for direct web viewing and security auditing on GitHub. Public accessibility does **not** grant, convey, or transfer any license, title, or ownership rights, and permission is strictly prohibited to copy, clone, modify, redistribute, or exploit any portion of this software without explicit prior written authorization.
+
+---
+
+### 2. Software & Codebase Restrictions
+Under this license, the following actions are **strictly prohibited** without prior written permission:
+* **Copy or Duplicate:** Reproduce, clone, mirror, or store any portion of this software, interface code, or compiled bundles for personal, educational, or commercial use.
+* **Modify or Adapt:** Alter, translate, transform, or build derivative works based on this codebase or its UI layouts.
+* **Redistribute or Sell:** Sublicense, lease, rent, re-host, sell, or distribute any part of this project or its static builds to any third party.
+* **Reverse Engineer:** Decompile, disassemble, extract, or reverse-engineer the compiled production scripts beyond necessary browser runtime processing.
+
+---
+
+### 3. Trademark, Brand Identity & Asset Protection
+All visual identity, media assets, and trade dress within this repository remain the exclusive intellectual property of **Developer's Territory**. Strict protection applies to:
+* **Brand Names & Marks:** The official name "Developer's Territory" and the the signature self-closing tag monogram `<dt/>`.
+* **Visual & Graphic Assets:** All logos, favicons, emblems, Open Graph social preview cards (`og-preview-card.png`), vector artwork, SVG path animations, and site design layouts.
+* **Published Media:** Original motion graphics, video streams, audio, and written editorial content published across associated web platforms and official social channels (YouTube, Instagram).
+
+*Building lookalike websites, copying our visual design style, or redistributing any brand media without explicit written authorization is **strictly prohibited** and constitutes copyright infringement.*
+
+---
+
+### 4. Reservation of Rights
+Developer's Territory reserves all rights not explicitly granted in this agreement. Any unauthorized use automatically terminates any implicit permission to access or view this repository and may subject the violator to legal remedies.
+
+---
+
+### 5. Disclaimer of Warranty & Limitation of Liability
+THE SOFTWARE AND ASSETS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
