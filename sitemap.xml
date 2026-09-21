@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- Homepage & Core Routes -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://developersterritory.in/</loc>
     <lastmod>2026-09-15</lastmod>
@@ -51,9 +50,6 @@
   </url>
 
 
-
-
-  <!-- Legal & Governance Routes -->
   <url>
     <loc>https://developersterritory.in/privacy-policy/</loc>
     <lastmod>2026-09-15</lastmod>
@@ -81,11 +77,8 @@
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
-  
 
 
-
-  <!-- Repository Routes -->
   <url>
     <loc>https://developersterritory.in/repository/</loc>
     <lastmod>2026-09-15</lastmod>
